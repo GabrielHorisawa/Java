@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class Ava{
+public class Ava6A{
     public static void controle(){
         String valorproduto = JOptionPane.showInputDialog(null, "Digite o valor:");
         String msg;
